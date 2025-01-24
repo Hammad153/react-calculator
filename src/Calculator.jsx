@@ -58,6 +58,7 @@ const Calculator = ({ value, handleClick, clearInput, handleEqualsClick }) => {
                 </div>
         </div>
         </div>
+        <p className='text-center text-white py-3'>Built with ❤️ by Ahmad</p>
     </div>
   )
 }
